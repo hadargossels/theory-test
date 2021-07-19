@@ -1,0 +1,16 @@
+.Qdiv {
+    background-color: white;
+    width: 80vw;
+    height: fit-content;
+    padding: 15px;
+}
+
+.form {
+    display: flex;
+    margin: 20px auto;
+    text-align: right;
+    justify-content: right;
+    align-items: right;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
